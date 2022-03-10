@@ -3,3 +3,6 @@
  3 sugar 60 5
  4 tea 100 6
  5 oil 100 5
+ 6 soap 20 3
+ 7 jeera 40 5
+ 
